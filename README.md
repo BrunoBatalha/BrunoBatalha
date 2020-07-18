@@ -9,6 +9,6 @@ My name is Bruno and ...
  - 📚 Currently studying React and Node
  - 🌍 And I also like to help new programmers
 
->Conhecimento é poder
+> <i>Conhecimento é poder</i>
 
 **Feel free to see my github 😉**
