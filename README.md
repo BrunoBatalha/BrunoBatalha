@@ -1,16 +1,16 @@
-# Bruno Batalha - FullStack Developer💻
+# Bruno Batalha - Desenvolvedor Front-End💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-batalha-/)](https://www.linkedin.com/in/bruno-batalha-/)
 
 <br>
 
-My name is Bruno and ...
+Meu nome é Bruno e...
 
- - 😄 I really like to learn
- - 📊 I work as a freelancer
- - 📚 Currently studying React and Node
- - 🌍 And I also like to help new programmers
+ - 😄 Eu gosto de aprender
+ - 📊 Eu trabalho como freelancer
+ - 📚 Atualmente meu estudo está focado no Front-End 
+ - 🌍 E eu também gosto de ajudar outros programadores
 
 <br>
 
-**Feel free to see my github 😉**
+**Sinta-se livre para ver meu Github😉**
