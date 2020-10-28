@@ -63,9 +63,9 @@ Meu nome é Bruno e...
     <tr>
         <td><b>Outros<b></td>
         <td>
-           <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+        	HTML5, REST API, WebScrapping, SEO e Marketing
         </td>
-    </tr>
+    </tr>    
 </table>
 <br>
             
