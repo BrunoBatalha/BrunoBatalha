@@ -8,9 +8,22 @@ Meu nome é Bruno e...
 
  - 😄 Eu gosto de aprender
  - 📊 Gosto de trabalhar como freelancer
- - 📚 Atualmente meu estudo está focado no Front-End 
+ - 📚 Atualmente meu estudo está focado no Front-End
+ - 🧠 Possuo conhecimento em Backend
  - 🌍 E eu também gosto de ajudar outros programadores
 
 <br>
+
+Conhecimento:
+- HTML5
+- CSS3
+- Javascript
+- ReactJs
+- NodeJs
+- Java
+- Kotlin
+- Python
+- WebScrapping
+- Linguagem C
 
 **Sinta-se livre para ver meu Github😉**
