@@ -69,6 +69,7 @@ Meu nome é Bruno e...
 </table>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoBatalha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoBatalha&show_icons=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBatalha&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/BrunoBatalha/github-readme-stats)
+<br>
 
 **Sinta-se livre para ver meu Github😉**
