@@ -68,5 +68,7 @@ Meu nome é Bruno e...
     </tr>    
 </table>
 <br>
-            
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?BrunoBatalha)](https://github.com/anuraghazra/github-readme-stats)
+
 **Sinta-se livre para ver meu Github😉**
