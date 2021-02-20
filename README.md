@@ -63,7 +63,7 @@ Meu nome é Bruno e...
     <tr>
         <td><b>Outros<b></td>
         <td>
-        	HTML5, REST API, WebScrapping, SEO e Marketing
+        	HTML5, REST API, WebScrapping, SEO 
         </td>
     </tr>    
 </table>
