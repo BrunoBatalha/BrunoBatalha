@@ -50,6 +50,7 @@ Meu nome é Bruno e...
             <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
             <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
             <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+           <img src="https://img.shields.io/badge/unity%20-%23121011.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
         </td>
     </tr>
     <tr>
