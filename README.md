@@ -4,17 +4,17 @@
 
 <br>
 
-Meu nome é Bruno e...
+Meu nome é Bruno...
 
- - 😄 Eu gosto de aprender
- - 📊 Gosto de trabalhar como freelancer
- - 📚 Atualmente meu estudo está focado no Front-End
- - 🧠 Possuo conhecimento em Backend
- - 🌍 E eu também gosto de ajudar outros programadores
+✍️ Formado como Técnico em Informática pelo Instituto Federal de Educação Ciência e Tecnologia do Amazonas.<br>
+🎨 Curto bastante a área de Frontend, mas já atuei no Backend.<br>
+🏢 Interesse por assuntos de empreendedorismo.<br>
+🗻 E gosto de passar o tempo vendo anime :P
+
 
 <br>
 
-<h2>Conhecimento em:</h2>
+<h2>Experiência com:</h2>
 
 <table>
     <tr>
@@ -27,18 +27,20 @@ Meu nome é Bruno e...
             <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
             <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+            <img src="https://img.shields.io/badge/c%23-3a2c61.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td><b>Frameworks/Libs<b></td>
         <td>
             <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+            <img src="https://img.shields.io/badge/angular%20-c91e1e.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+            <img src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
             <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
             <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
             <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
             <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+            <img src="https://img.shields.io/badge/sass%20-c91e5d.svg?&style=for-the-badge&logo=sass&logoColor=white" />
         </td>
     </tr>            
     <tr>
@@ -60,11 +62,12 @@ Meu nome é Bruno e...
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
             <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
             <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+            <img src ="https://img.shields.io/badge/Sqlserver-ffc219.svg?&style=for-the-badge&logo=sqlserver&logoColor=white"/>
         </td>
     <tr>
         <td><b>Outros<b></td>
         <td>
-        	HTML5, REST API, WebScrapping, SEO 
+        	HTML5, REST API, WebScrapping, SEO, CleanCode, Design Pattern
         </td>
     </tr>    
 </table>
