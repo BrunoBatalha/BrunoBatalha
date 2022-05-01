@@ -1,4 +1,5 @@
-# <img src="https://github.com/BrunoBatalha/BrunoBatalha/blob/master/shintaro-kisaragi-anime-boy.gif" width="200"> Bruno Batalha - Desenvolvedor Front-End
+<img src="https://github.com/BrunoBatalha/BrunoBatalha/blob/master/shintaro-kisaragi-anime-boy.gif" width="200"><br>
+# Bruno Batalha - Desenvolvedor Front-End
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-batalha-/)](https://www.linkedin.com/in/bruno-batalha-/)
 
