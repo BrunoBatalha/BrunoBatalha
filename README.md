@@ -77,4 +77,6 @@ Meu nome é Bruno...
 <br>
 
 **Sinta-se livre para ver meu Github😉**
+            
+            
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrunoBatalha&left_color=blue&right_color=orange)
