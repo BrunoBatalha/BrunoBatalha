@@ -1,4 +1,4 @@
-# ![ezgif com-video-to-gif(1)](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif) Bruno Batalha - Desenvolvedor Front-End
+# <img src="https://github.com/BrunoBatalha/BrunoBatalha/blob/master/shintaro-kisaragi-anime-boy.gif" width="200"> Bruno Batalha - Desenvolvedor Front-End
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-batalha-/)](https://www.linkedin.com/in/bruno-batalha-/)
 
