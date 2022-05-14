@@ -68,7 +68,7 @@ Meu nome é Bruno...
     <tr>
         <td><b>Outros<b></td>
         <td>
-        	HTML5, REST API, WebScrapping, SEO, CleanCode, Design Pattern
+        	HTML5, REST API, WebScrapping, SEO, CleanCode, Design Patterns, Clean Architecture
         </td>
     </tr>    
 </table>
