@@ -1,25 +1,20 @@
+# Bruno Batalha - Front-End Developer
 <img src="https://github.com/BrunoBatalha/BrunoBatalha/blob/master/shintaro-kisaragi-anime-boy.gif" width="200"><br>
-# Bruno Batalha - Desenvolvedor Front-End
 
+## 🌐Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-batalha-/)](https://www.linkedin.com/in/bruno-batalha-/)
 
-<br>
-
-Meu nome é Bruno...
-
+## 💫About Me
 ✍️ Formado como Técnico em Informática pelo Instituto Federal de Educação Ciência e Tecnologia do Amazonas.<br>
 🎨 Curto bastante a área de Frontend, mas já atuei no Backend.<br>
 🏢 Interesse por assuntos de empreendedorismo.<br>
 🗻 E gosto de passar o tempo vendo anime :P
 
-
-<br>
-
-<h2>Experiência com:</h2>
+## 💻Experience with:
 
 <table>
     <tr>
-        <td><b>Linguagens de programação<b></td>
+        <td><b>Programming languages<b></td>
         <td>
             <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
             <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -45,7 +40,7 @@ Meu nome é Bruno...
         </td>
     </tr>            
     <tr>
-        <td><b>Ferramentas<b></td>
+        <td><b>Tools<b></td>
         <td>
             <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
             <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
@@ -57,7 +52,7 @@ Meu nome é Bruno...
         </td>
     </tr>
     <tr>
-        <td><b>Bancos<b></td>
+        <td><b>Databases<b></td>
         <td>
             <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -66,17 +61,22 @@ Meu nome é Bruno...
             <img src ="https://img.shields.io/badge/Sqlserver-ffc219.svg?&style=for-the-badge&logo=sqlserver&logoColor=white"/>
         </td>
     <tr>
-        <td><b>Outros<b></td>
+        <td><b>Others<b></td>
         <td>
         	HTML5, REST API, WebScrapping, SEO, CleanCode, Design Patterns, Clean Architecture, TDD
         </td>
     </tr>    
 </table>
-<br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoBatalha&show_icons=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBatalha&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/BrunoBatalha/github-readme-stats)
-<br>
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=BrunoBatalha&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoBatalha&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBatalha&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+            
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BrunoBatalha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+            
 **Sinta-se livre para ver meu Github😉**
             
             
