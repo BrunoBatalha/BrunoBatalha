@@ -63,7 +63,7 @@
     <tr>
         <td><b>Others<b></td>
         <td>
-        	HTML5, REST API, WebScrapping, SEO, CleanCode, Design Patterns, Clean Architecture, TDD
+        	HTML5, REST API, WebScrapping, SEO, CleanCode, Design Patterns, Clean Architecture, TDD, Git Flow
         </td>
     </tr>    
 </table>
