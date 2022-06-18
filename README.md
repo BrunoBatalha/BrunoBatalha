@@ -8,6 +8,7 @@
 ✍️ Formado como Técnico em Informática pelo Instituto Federal de Educação Ciência e Tecnologia do Amazonas.<br>
 🎨 Curto bastante a área de Frontend, mas já atuei no Backend.<br>
 🏢 Interesse por assuntos de empreendedorismo.<br>
+🦾 Hobbie é refatorar meus códigos.<br>
 🗻 E gosto de passar o tempo vendo anime :P
 
 ## 💻Experience with:
