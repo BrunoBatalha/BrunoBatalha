@@ -70,9 +70,9 @@
 </table>
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=BrunoBatalha&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoBatalha&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoBatalha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBatalha&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoBatalha&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
             
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BrunoBatalha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
