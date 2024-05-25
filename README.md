@@ -1,4 +1,4 @@
-# Bruno Batalha - Front-End Developer
+# Bruno Batalha - Software Developer 
 <img src="https://github.com/BrunoBatalha/BrunoBatalha/blob/master/shintaro-kisaragi-anime-boy.gif" width="200"><br>
 
 ## 🌐Socials
